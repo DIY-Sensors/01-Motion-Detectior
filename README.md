@@ -1,2 +1,2 @@
 # 01-Motion-Detectior
-Motion Detector for Home Assistant
+DIY Motion Detector for Home Assistant
